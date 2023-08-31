@@ -1,11 +1,23 @@
 h1{
     color: rgb(0, 0, 0);
-    text-align: center ;
+    text-align: center ;  
+    font-size: 2.5em;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.875em;
 }
 
 
+h2,
+h3,
+h4,
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.875em;
+}
+
 h3{
     color: rgb(110, 186, 240);
+
 }
 
 body{
@@ -19,4 +31,8 @@ ol{
 
 ul{
     color: rgb(75, 120, 145);
+}
+
+h6{
+    font-style: italic;
 }
