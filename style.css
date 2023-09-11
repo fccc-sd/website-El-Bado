@@ -6,6 +6,10 @@ h1{
     line-height: 1.875em;
 }
 
+#Important {
+    font-style: italic;
+    
+}
 
 h2,
 h3,
