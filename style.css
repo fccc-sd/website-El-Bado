@@ -1,15 +1,23 @@
-h1{
+main{
+    font-weight: bold;
+}
+
+#Important {
+    font-style: italic;
+}
+
+footer{
+    font-size: 1.4em;
+}
+div{
+    font-style: italic;
+}
+header{
     color: rgb(0, 0, 0);
     text-align: center ;  
     font-size: 2.5em;
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.875em;
-}
-
-#Important {
-    font-style: italic;
- 
-    
 }
 
 h2,
@@ -32,6 +40,7 @@ body{
 }
 ol{
     color: rgb(75, 120, 145);
+    font-style: italic;
 }
 
 ul{
