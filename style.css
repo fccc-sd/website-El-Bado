@@ -29,22 +29,22 @@ h5{
 }
 
 h3{
-    color: rgb(110, 186, 240);
+    color: rgb(4, 9, 90);
 
 }
 
 body{
-    background-color: rgb(213, 252, 255);
+    background-color: rgba(5, 175, 158, 0.452);
     color: rgb(0, 0, 0);
     
 }
 ol{
-    color: rgb(75, 120, 145);
+    color: rgb(170, 60, 9);
     font-style: italic;
 }
 
 ul{
-    color: rgb(75, 120, 145);
+    color: rgb(170, 60, 9);
 }
 
 h6{
