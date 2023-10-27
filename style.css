@@ -1,0 +1,87 @@
+main{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#Important {
+    font-style: italic;
+}
+
+footer{
+    font-size: 1.4em;
+}
+div{
+    font-style: italic;
+}
+header{
+    color: rgb(0, 0, 0);
+    text-align: center ;  
+    font-size: 2.5em;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.875em;
+}
+
+h2,
+h3,
+h4,
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.875em;
+}
+
+h3{
+    color: rgb(4, 9, 90);
+
+}
+
+body{
+    background-color: rgba(5, 175, 158, 0.452);
+    color: rgb(0, 0, 0);
+    
+}
+ol{
+    color: rgb(170, 60, 9);
+    font-style: italic;
+    list-style-type: decimal;
+    list-style-position: inside;
+}
+
+ul{
+    color: rgb(170, 60, 9);
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+h6{
+    font-style: italic;
+}
+img{
+   vertical-align: bottom;
+   
+}
+nav
+{
+    background-color: rgb(5, 175, 158, 0.452);
+    color: rgb(0, 0, 0);
+    line-height: 1.25em;
+    display: block;
+}
+nav li{
+    display: inline;
+    padding-right: 70px;
+    list-style-type: none;
+    list-style-position: none;
+    font-style: bold;
+}
+nav a:link{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+nav a:visited{
+    color: rgb(235, 229, 229);
+}
+nav a:hover{
+    text-decoration: underline;
+}
+nav a:active{
+    text-decoration: overline;
+}
